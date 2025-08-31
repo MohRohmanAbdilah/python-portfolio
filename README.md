@@ -1,2 +1,2 @@
-# Python Projects
-Python notebooks for data cleaning, visualization, and case studies.
+# Python Portfolio
+Collection of Python notebooks for data analysis, cleaning, and visualization.
